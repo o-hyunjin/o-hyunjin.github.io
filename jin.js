@@ -1,7 +1,7 @@
 
 
         var slideIndex = 1;
-        showSlides(slideIndex);
+        
         
         function plusSlides(n) {
           showSlides(slideIndex += n);
@@ -24,5 +24,5 @@
               dots[i].className = dots[i].className.replace(" active", "");
           }
            
-          dots[slideIndex-1].className += " active";
+          
         }
