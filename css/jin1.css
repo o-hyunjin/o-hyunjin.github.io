@@ -104,11 +104,11 @@ footer {
 }
 
 * {box-sizing: border-box}
-body {font-family: Verdana, sans-serif; margin:0}
+/*body {font-family: Verdana, sans-serif; margin:0}
 .mySlides, .mySlides, .mySlides {display: none}
 video {vertical-align: middle; size: 50%;}
 img {vertical-align: middle; }
-.video, .img{size: 50%;}
+.video, .img{size: 50%;}*/
 
 /* Slideshow container */
 .slideshow-container {
