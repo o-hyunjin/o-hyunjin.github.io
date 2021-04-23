@@ -118,9 +118,9 @@ body{
   background-color: rgb(24, 23, 23);
   margin-right: auto;
   margin-left: auto;
-  .mySlides, .mySlides, .mySlides {display: none}
-img {vertical-align: middle; }
 }
+.mySlides, .mySlides, .mySlides {display: none}
+img {vertical-align: middle; }
 
 /* Slideshow container */
 .slideshow-container {
