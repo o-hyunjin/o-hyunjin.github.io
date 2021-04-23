@@ -110,7 +110,7 @@ video {vertical-align: middle; size: 50%;}
 img {vertical-align: middle; }
 .video, .img{size: 50%;}*/
 body{
-  font: Arial, Helvetica, sans-serif;
+  font-family: Verdana, sans-serif;
   height: 100%;
   margin: 0;
   padding: 0;
