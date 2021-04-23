@@ -99,3 +99,7 @@ header .current a{
   margin-right: center;
   margin-left: auto;
 }
+
+.page title{
+  background-color: rgb(24, 23, 23);
+  color: white;
