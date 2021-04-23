@@ -1,4 +1,4 @@
-body{
+/*body{
   font: Arial, Helvetica, sans-serif;
   height: 100%;
   margin: 0;
@@ -7,7 +7,7 @@ body{
   background-color: rgb(24, 23, 23);
   margin-right: auto;
   margin-left: auto;
-}
+}*/
 
 .container{
   width: 80%;
@@ -109,6 +109,18 @@ footer {
 video {vertical-align: middle; size: 50%;}
 img {vertical-align: middle; }
 .video, .img{size: 50%;}*/
+body{
+  font: Arial, Helvetica, sans-serif;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  background-color: rgb(24, 23, 23);
+  margin-right: auto;
+  margin-left: auto;
+  .mySlides, .mySlides, .mySlides {display: none}
+img {vertical-align: middle; }
+}
 
 /* Slideshow container */
 .slideshow-container {
