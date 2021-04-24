@@ -104,3 +104,14 @@ header .current a{
   background-color: rgb(24, 23, 23);
   color: white;
 }
+
+article#main-col {
+  float: left;
+  width: 60%;
+}
+
+article#sidebar {
+  float: left;
+  width: 30%;
+}
+  
