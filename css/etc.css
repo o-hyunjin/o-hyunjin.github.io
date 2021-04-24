@@ -112,15 +112,10 @@ header .current a{
   margin-left: auto;
 }
 
-#page title{
-  background-color: rgb(24, 23, 23);
-  color: white;
-}
-
 .dark {
   padding: 15px;
-  background-color: white;
-  color: black;
+  background-color: black;
+  color: white;
   margin: 10px;
 }
 
