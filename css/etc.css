@@ -113,7 +113,7 @@ header .current a{
 }
 
 .dark {
-  padding: 15px;
+  padding: 5px;
   background-color: black;
   color: white;
   margin: 10px;
@@ -122,6 +122,7 @@ header .current a{
 article#main-col {
   float: left;
   width: 60%;
+  background-color: rgb(24, 23, 23);
 }
 
 aside#sidebar {
