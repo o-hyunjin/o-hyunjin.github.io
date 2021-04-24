@@ -105,12 +105,19 @@ header .current a{
   color: white;
 }
 
+.dark {
+  padding: 15px;
+  background-color: white;
+  color: black;
+  margin: 10px;
+}
+
 article#main-col {
   float: left;
   width: 60%;
 }
 
-article#sidebar {
+aside#sidebar {
   float: left;
   width: 30%;
 }
