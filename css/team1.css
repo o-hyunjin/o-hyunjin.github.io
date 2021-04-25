@@ -1,3 +1,5 @@
+*html #container{height:100%;}
+
 h1{
   padding: 30px;
   background-color: black;
@@ -97,4 +99,13 @@ header .current a{
   background-color: rgb(24, 23, 23);
   margin-right: auto;
   margin-left: auto;
+}
+
+footer {
+  margin-top: 20px;
+  color: white;
+  background-color: black;
+  padding: 10px;
+  text-align: center;
+  position: relative;z-index:20;
 }
