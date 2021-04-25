@@ -75,14 +75,14 @@ header .current a{
   margin-top: 70px;
 }
 
-#boxes .box, .box, .box, .box{
+#boxes .box , .box ,.box , .box {
   text-align: center;
   width: 30%;
   padding: 20px;
   size: 50px;
 }
 
-#boxes .box img, .box img {
+#boxes .box img{
   width: 75%;
   height: 75%;
   background-size: 60px;
