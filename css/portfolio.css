@@ -75,8 +75,7 @@ header .current a{
   margin-top: 70px;
 }
 
-#boxes .box, .box{
-  float: left;
+#boxes .box, .box, .box, .box{
   text-align: center;
   width: 30%;
   padding: 20px;
@@ -88,7 +87,6 @@ header .current a{
   height: 75%;
   background-size: 60px;
   size: 60px;
-  float: center;
 }
 
  body{
