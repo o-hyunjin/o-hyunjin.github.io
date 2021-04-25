@@ -9,6 +9,8 @@
   margin-left: auto;
 }*/
 
+*html #container{height:100%;}
+
 .container{
   width: 80%;
   margin: auto;
@@ -101,11 +103,11 @@ footer {
   background-color: black;
   padding: 10px;
   text-align: center;
-  position: bottom;
+  position: relative;z-index:20;
 }
 
 body{
-  font-family: Verdana, sans-serif;
+  font-family: bold;
   height: 100%;
   margin: 8px;
   padding: 0;
