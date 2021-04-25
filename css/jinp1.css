@@ -105,6 +105,12 @@ header .current a{
   margin-left: auto;
 }
 
+body a{
+  color: white;
+  text-decoration: none;
+}
+  
+
 footer {
   margin-top: 20px;
   color: white;
