@@ -9,6 +9,8 @@
   margin: 0;
     }*/
 
+*html #container{height:100%;}
+
 h1{
   padding: 30px;
   background-color: black;
@@ -130,3 +132,11 @@ aside#sidebar {
   width: 30%;
 }
   
+footer {
+  margin-top: 20px;
+  color: white;
+  background-color: black;
+  padding: 10px;
+  text-align: center;
+  position: relative;z-index:20;
+}
