@@ -105,7 +105,16 @@ header .current a{
   margin-left: auto;
 }
 
-  
+ body a{
+    color: white;
+  text-decoration: none;
+}
+
+body li {
+  display: inline;
+  padding: 0 20px;
+  float: left;
+}
 
 footer {
   margin-top: 20px;
