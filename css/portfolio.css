@@ -82,7 +82,7 @@ header .current a{
   size: 50px;
 }
 
-#boxes .box img {
+#boxes .box img, .box img {
   width: 75%;
   height: 75%;
   background-size: 60px;
