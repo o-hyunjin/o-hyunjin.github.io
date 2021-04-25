@@ -106,8 +106,12 @@ header .current a{
 }
 
  body a{
-    color: white;
+    color: rgb(236, 222, 20);
   text-decoration: none;
+   float: left ;
+   position: relative;
+   margin-right: auto;
+  margin-left: auto;
 }
 
 body li {
