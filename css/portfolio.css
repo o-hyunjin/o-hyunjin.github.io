@@ -88,6 +88,7 @@ header .current a{
   height: 75%;
   background-size: 60px;
   size: 60px;
+  float: center;
 }
 
  body{
