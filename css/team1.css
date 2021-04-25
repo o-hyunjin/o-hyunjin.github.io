@@ -15,6 +15,18 @@ h2{
   font-size: 16px;
   font-style: bold;
   color: white;
+  margin-right: auto;
+  margin-left: auto;
+  margin: 0;
+    }
+
+h2{
+  font-size: 12px;
+  font-style: bold;
+  color: gray;
+  margin-right: auto;
+  margin-left: auto;
+  margin: 0;
     }
 
 header {
@@ -100,6 +112,20 @@ header .current a{
   margin-right: auto;
   margin-left: auto;
 }
+
+body a{
+  text-decoration: none;
+   position: relative;
+   margin-right: auto;
+  margin-left: auto;
+}
+
+body li {
+  display: inline;
+  padding: 0 20px;
+  float: left;
+}
+
 
 footer {
   margin-top: 20px;
