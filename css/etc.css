@@ -152,15 +152,7 @@ footer {
   padding: 0;
   margin: 0;
 }
-:root{
-  --pink: #ff74a4;
-  --violet: #9f6ea3;
-  --lightblack: #515C6F;
-  --white: #ffffff;
-  --darkwhite: #cecaca;
-  --pinkshadow: #ffcbdd;
-  --lightbshadow: rgba(0,0,0,0.15);
-}
+
 body{
   display: flex;
   align-items: center;
