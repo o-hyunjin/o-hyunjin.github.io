@@ -112,6 +112,7 @@ header .current a{
   background-color: rgb(24, 23, 23);
   margin-right: center;
   margin-left: auto;
+   align-items: center;
 }
 
 .dark {
@@ -153,13 +154,7 @@ footer {
   margin: 0;
 }
 
-body{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 100vh;
-  background: linear-gradient(var(--pink) 0%, var(--violet) 100%);
-}
+
 .wrapper{
   width: 380px;
   padding: 25px 30px;
